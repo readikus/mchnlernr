@@ -1,0 +1,20 @@
+{
+  "title": "MchnLrnr",
+  "url": "https://mchnlernr.com/",
+  "description": "I am writing about building machine learning algorithms.",
+  "feed": {
+    "subtitle": "subtitle...",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Ian Read",
+    "email": "ianharveyread@gmail.com",
+    "url": "https://example.com/about-me/"
+  }
+}
