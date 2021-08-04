@@ -5,6 +5,7 @@ date: 2021-08-10
 tags:
   - random forest
   - decision trees
+  - algorithms
   - python
 layout: layouts/post.njk
 ---

@@ -4,6 +4,7 @@ description: In this article we will look at the use of classification and regre
 date: 2021-08-04
 tags:
   - decision trees
+  - algorithms
 layout: layouts/post.njk
 ---
 
