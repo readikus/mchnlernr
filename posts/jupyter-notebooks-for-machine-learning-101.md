@@ -19,7 +19,7 @@ The quickest way is to go over to the [Google Colaboratory](https://research.goo
 
 ## Running locally
 
-By running locally, you are able to have full control on the version of Python you use and the available dependancies. The [Anaconda Navigator] introduced in the previous post, offers an easy way to run Jupyter notebooks locally.
+By running locally, you are able to have full control on the version of Python you use and the available dependancies. The [Anaconda Navigator](./posts/anaconda-python-distribution-for-machine-learning/) introduced in the previous post, offers an easy way to run Jupyter notebooks locally.
 
 ## Jupyter Shortcuts
 
