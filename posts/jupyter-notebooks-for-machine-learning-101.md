@@ -15,14 +15,19 @@ Jupyter notebooks offer an interactive way of creating Python code and detailed 
 
 ## Quick Start
 
-The quickest way is to go over to the [Google Colaboratory](https://research.google.com/colaboratory) and have a play.
+The quickest way is to go over to the [Google Colaboratory](https://research.google.com/colaboratory) and have a play. You can create a series of cells containing markdown or Python.
 
 ## Running locally
 
 By running locally, you are able to have full control on the version of Python you use and the available dependancies. The [Anaconda Navigator] introduced in the previous post, offers an easy way to run Jupyter notebooks locally.
 
-## Features
+## Jupyter Shortcuts
 
+| Keys             | Command                             |
+|------------------|-------------------------------------|
+| shift + enter    | Run the current cell                |
+| tab              | show popup of methods on an object  |
+| shift + tab      | show the doc string for a function  |
 
 ## Sharing to gist
 
@@ -35,5 +40,4 @@ Gist are one of the easiest ways of making a Jupyter notebook shareable within a
 
 And it will look something like this:
 
-<script src="https://gist.github.com/readikus/1da220162fd9ab17e1ab04241bf07a5e.js"></script>
-
+<script src="https://gist.github.com/readikus/b840218efb79158e681d97271edd1718.js"></script>
