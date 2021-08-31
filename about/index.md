@@ -7,6 +7,6 @@ eleventyNavigation:
   order: 3
 ---
 
-I've been building quite a few machine learning models, and looking at a number of things I want to build related to natural language processing.
+<p>In 2007, I received a PhD in using machine learning to improve speech synthesis at the University of East Anglia, sponsored by Nuance Communications. Currently consulting as a software engineer for some of the biggest enterprise brands in the world.</p>
 
-This is a site
+<p>When I’m not programming, I spend time with my wife and our dogs, mountain biking or trying to grow fruit and vegetables.</p>
