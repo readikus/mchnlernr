@@ -20,7 +20,7 @@ body {
   margin: 0;
   font-family: 'Recursive', system-ui, sans-serif;
   color: var(--darkgray);
-  background-color: var(--gray);
+  background-color: var(--white);
 }
 p:last-child {
   margin-bottom: 0;
@@ -43,7 +43,7 @@ a[href]:visited {
 main {
   padding: 1rem;
   margin: auto;
-  max-width: 900px;
+  max-width: 600px;
 }
 main :first-child {
   margin-top: 0;
@@ -235,4 +235,42 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+@media (min-width: 22.5rem) {
+  span[data-caps=initial] {
+    font-size: 3.8125rem;
+    height: 3.375rem;
+  }
+}
+.article-body p:first-of-type:first-letter {
+  float: left;
+  font-family: Georgia;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.article-body {
+  font-family: Georgia;
+
+}
+
+.firstcharacter {
+  float: left;
+  font-family: Georgia;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+
+.gist{
+  left: -100px;
+    position: relative;
+    width: 800px;
 }

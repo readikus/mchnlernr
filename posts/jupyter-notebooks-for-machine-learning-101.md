@@ -9,8 +9,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-## Overview
-
 Jupyter notebooks offer an interactive way of creating Python code and detailed notes in a browser by combining REPLs and markdown. Whilst this approach doesn't scale for full applications, it is an excellent way to explore a dataset and understand the problems involved.
 
 ## Quick Start
